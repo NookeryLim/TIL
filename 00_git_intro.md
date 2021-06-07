@@ -105,6 +105,16 @@ $ git log --oneline #커밋 목록 한 줄로 보기
 
 
 
+---
+
+### 추가 커밋 쌓기
+
+- a.txt 내용 수정
+
+```bash
+$git status
+```
+
 
 
 
